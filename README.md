@@ -52,7 +52,7 @@ Brunno es un Chatbot Asistente de Facebook para una Pizzeria
 
 > ### - Brunno puede Agradecerte y Despedirse de ti estas son funcionalidades basicas de cualquier chatbot
 
-![Alt-](https://codexceleste.com/chatbots/brunno/core/images/gifs/brunno3.gif)
+![Alt-](https://codexceleste.com/chatbots/brunno/core/images/gifs/brunno4.gif)
 
 > ### - Y Esto es lo Principal que Maneja Brunno , Esto nos sirve para Cualquier Restaurante 
 
